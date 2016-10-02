@@ -1,3 +1,8 @@
-blockquote {color: aquamarine;
-    background:rgba(250, 233, 26, 0.5) 
+blockquote {
+    background:rgba(110, 123, 175, 0.5) 
+}
+blockquote {color: black}
+
+strong{
+    color: #ff121b
 }
